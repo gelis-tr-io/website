@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# gelis{tr}.io
 
-You can use the [editor on GitHub](https://github.com/gelis-tr-io/website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Yazılımı sadece kod yazmak mantığından çıkarıp, onu yeniden doğru bir şekilde anlamak, kavramları daha derinlemesine sorgulamak, ve var olan kavramları yeniden var etmek için kuruldu `gelis{tr}.io`.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Amaç, herşeyin açık kaynak olması. Düşüncelerin, yazıların, isteklerin, kavramların... herşeyin kollektif akıl ile yeniden var edilmesi. Var ederken yeniden anlamak, yeniden tasarlamak, ve daha kaliteli bir mühendis olmak için daha derinlemesine düşünmek.
 
-### Markdown
+## Nedir
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hayır, burasının amacı sıradan bir topluluk olmak değil. Google'dan rahatlıkla bulabileceğiniz soruların cevapları olmayacak burada. Burası anlık sorunların geçici cevaplarının üretildiği bir yerde değil. Burası gelişirken geliştiğiniz bir yer. Burası öğrenirken nasıl öğrenmeniz gerektiğini de öğreneceğiz bir yer. Burası yazılımcıların sıradan kodlamanın ötesine geçtikleri, düşüncelerindeki derinlik ile sıradan insanların göremedikleri adımları çok daha önceden görebilmenizi sağlamak için kurulmuş bir yer. Amacı çok insana ulaşmak ve rakamaların hazzında hedefini unutan bir topluluk kurmak değil, katılan herkesi daha kaliteli bir mühendis yapmayı hedefleyen bir yer olmak.
 
-```markdown
-Syntax highlighted code block
+## Hedef
 
-# Header 1
-## Header 2
-### Header 3
+1. Herkesin çalışmayı arzuladığı mühendisleri geliştirmek. 
+2. Parçası olmaktan gurur duyacağınız, parçası olduktan sonra da yazılımın felsefesinde yaptığı fikirsel geliştirmeler ve sorgulamalar ile insanların yazılıma karşı bakışını etkileyebileceğiniz bir yer olmayı hedefliyor burası. 
 
-- Bulleted
-- List
+## Methodoloji
 
-1. Numbered
-2. List
+Bir varlığı anlaşılır kılan, tanımlanmış sınırlar içinde hareket etmesidir. Onda tesadüfleri değil, tasarımları görürsünüz. Ona baktığınızda bir düşüncenin eseri olduğu açıktır. Gereksiz parçaları yoktur. Herşeyi bir amaç ile var olmuştur ve bir amaç uğrunda varlığına devam eder. Daha fazla bir şey eklenemediğinde değil, bir şeyler çıkaramadığınızda tamam olmuştur. İşte kalite bu anlaşılırlık içinde var olmaya başlar. İşte bu anlayış gelis{tr}.io topluluğunu var eden şeyin kendisidir.
 
-**Bold** and _Italic_ and `Code` text
+Bu anlayış ile içeriklerin tümü üretilmelidir. Yazılan yazılar, kodlar, sorular, düşünceler... hepsi aşağıdaki kriteleri sağlamalıdır:
 
-[Link](url) and ![Image](src)
-```
+1. Basitlik: Hiç bir içerik ihtiyacından fazlasına sahip olmamalıdır.
+2. Doğruluk: Kullanılan ifadeler genel doğrular ile çelişmemeli ve insanların yanlış şekilde yönlendirilmesine izin verilmemelidir. 
+3. Derinlik: Herşey üzerinde kafa yorulmuş bir emeğin karşılığı olmalıdır. İçerikler basit çeviriler değil, bir tecrübenin, bir zihinsel sancının sonucu olmalıdır. 
+4. Aydınlatıcılık: Bir içerik, kendisini tüketenlere farklı bir akış açısı katacak şekilde tasarlanmalı ve bilinenleri tekrar etmek yerine, bilinenlere yeni bir açı katmalı ya da yeni şeyler üretmelidir.
+5. Emeğe saygılı: Herkesin emeğine saygılı olunmalı ve kullanılan materyaller mümkün mertebe referans gösterilmelidir. Bu aynı zamanda, insanların okudukları içeriklerin kaynaklarını kendileri görme şansını elde etmeleri için önemlidir.
+6. Kollektif: İçerikler başka insanların katkılarına açık olmalıdır. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Seviyeler
 
-### Jekyll Themes
+İnsanların geliştiklerini görmek ve bunu teşvik amacı ile herkesin grup içinde bir seviyesi olmalıdır. Herkes aynı olmadığı gibi, herkesi aynı seviyede görmek ise hem emeğe haksızlık hem de insanların motivasyonunu elleriden almak olacaktır. Bu durum insanların birbirlerine karşı üstünlük taslaması ve aşkalarının fikirlerini bastırması için değil, birbirlerinin bilgilerine karşı duyacakları güven için önemli bir kriter olması açısından doğru olandır. Amacı yazılım olan bir toplulukta, kullanılacak ünvanlarda piyasada kullanılanlara benzer olacaktır:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gelis-tr-io/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. Principal Software Engineer
+2. Senior Software Engineer
+3. Intermediate Software Engineer
+4. Junior Software Engineer
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
