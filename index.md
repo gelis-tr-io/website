@@ -13,6 +13,10 @@ Hayır, burasının amacı sıradan bir topluluk olmak değil. Google'dan rahatl
 1. Herkesin çalışmayı arzuladığı mühendisleri geliştirmek. 
 2. Parçası olmaktan gurur duyacağınız, parçası olduktan sonra da yazılımın felsefesinde yaptığı fikirsel geliştirmeler ve sorgulamalar ile insanların yazılıma karşı bakışını etkileyebileceğiniz bir yer olmayı hedefliyor burası. 
 
+## Herşey Değiştirilebilir
+
+Açık kaynak kod ve kollektif olmanın mantığı budur. Organizasyon içinde ulaşılabilir her içerik herkesin pull request'ler göndermelerine açıktır. Dolayısıyla, burası ortak bir emeğin sonucudur.
+
 ## Metodoloji
 
 Bir varlığı anlaşılır kılan, tanımlanmış sınırlar içinde hareket etmesidir. Onda tesadüfleri değil, tasarımları görürsünüz. Ona baktığınızda bir düşüncenin eseri olduğu açıktır. Gereksiz parçaları yoktur. Herşeyi bir amaç ile var olmuştur ve bir amaç uğrunda varlığına devam eder. Daha fazla bir şey eklenemediğinde değil, bir şeyler çıkaramadığınızda tamam olmuştur. İşte kalite bu anlaşılırlık içinde var olmaya başlar. İşte bu anlayış gelis{tr}.io topluluğunu var eden şeyin kendisidir.
