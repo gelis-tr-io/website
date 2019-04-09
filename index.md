@@ -1,12 +1,12 @@
 # gelis{tr}.io
 
-Yazılımı sadece kod yazmak mantığından çıkarıp, onu yeniden doğru bir şekilde anlamak, kavramları daha derinlemesine sorgulamak, ve var olan kavramları yeniden var etmek için kuruldu `gelis{tr}.io`.
+Yazılımı sadece kod yazmak mantığından çıkarıp, onu doğru bir şekilde yeniden anlamak, kavramları daha derinlemesine sorgulamak, ve var olan kavramları yeniden var etmek için kuruldu `gelis{tr}.io`.
 
 Amaç, herşeyin açık kaynak olması. Düşüncelerin, yazıların, isteklerin, kavramların... herşeyin kollektif akıl ile yeniden var edilmesi. Var ederken yeniden anlamak, yeniden tasarlamak, ve daha kaliteli bir mühendis olmak için daha derinlemesine düşünmek.
 
 ## Nedir
 
-Hayır, burasının amacı sıradan bir topluluk olmak değil. Google'dan rahatlıkla bulabileceğiniz soruların cevapları olmayacak burada. Burası anlık sorunların geçici cevaplarının üretildiği bir yerde değil. Burası gelişirken geliştiğiniz bir yer. Burası öğrenirken nasıl öğrenmeniz gerektiğini de öğreneceğiz bir yer. Burası yazılımcıların sıradan kodlamanın ötesine geçtikleri, düşüncelerindeki derinlik ile sıradan insanların göremedikleri adımları çok daha önceden görebilmenizi sağlamak için kurulmuş bir yer. Amacı çok insana ulaşmak ve rakamaların hazzında hedefini unutan bir topluluk kurmak değil, katılan herkesi daha kaliteli bir mühendis yapmayı hedefleyen bir yer olmak.
+Hayır, burasının amacı sıradan bir topluluk olmak değil. Google'dan rahatlıkla bulabileceğiniz soruların cevapları olmayacak burada. Burası anlık sorunların geçici cevaplarının üretildiği bir yer de değil. Burası, gelişirken geliştiğiniz bir yer. Burası, öğrenirken nasıl öğrenmeniz gerektiğini öğrendiğiniz bir yer. Burası, yazılımcıların sıradan kodlamanın ötesine geçtikleri, düşüncelerindeki derinlik ile başka insanların göremedikleri adımları çok daha önceden görebilmenizi sağlamak için kurulmuş bir yer. Amacı çok insana ulaşmak ve rakamların hazzında hedefini unutan bir topluluk kurmak değil. Tam aksine, katılan herkesi daha kaliteli bir mühendis yapmayı hedefleyen bir yer olmak.
 
 ## Hedef
 
