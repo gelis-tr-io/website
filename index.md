@@ -32,7 +32,7 @@ Bu anlayış ile içeriklerin tümü üretilmelidir. Yazılan yazılar, kodlar, 
 
 ## Seviyeler
 
-İnsanların geliştiklerini görmek ve bunu teşvik amacı ile herkesin grup içinde bir seviyesi olmalıdır. Herkes aynı olmadığı gibi, herkesi aynı seviyede görmek ise hem emeğe haksızlık hem de insanların motivasyonunu elleriden almak olacaktır. Bu durum insanların birbirlerine karşı üstünlük taslaması ve aşkalarının fikirlerini bastırması için değil, birbirlerinin bilgilerine karşı duyacakları güven için önemli bir kriter olması açısından doğru olandır. Amacı yazılım olan bir toplulukta, kullanılacak ünvanlarda piyasada kullanılanlara benzer olacaktır:
+İnsanların geliştiklerini görmek ve bunu teşvik amacı ile herkesin grup içinde bir seviyesi olmalıdır. Herkes aynı olmadığı gibi, herkesi aynı seviyede görmek ise hem emeğe haksızlık hem de insanların motivasyonunu elleriden almak olacaktır. Bu durum insanların birbirlerine karşı üstünlük taslaması ve başkalarının fikirlerini bastırması için değil, birbirlerinin bilgilerine karşı duyacakları güven için önemli bir kriter olması açısından doğru olandır. Amacı yazılım olan bir toplulukta, kullanılacak ünvanlarda piyasada kullanılanlara benzer olacaktır:
 
 1. Principal Software Engineer
 2. Senior Software Engineer
