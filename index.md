@@ -23,12 +23,12 @@ Bir varlığı anlaşılır kılan, tanımlanmış sınırlar içinde hareket et
 
 Bu anlayış ile içeriklerin tümü üretilmelidir. Yazılan yazılar, kodlar, sorular, düşünceler... hepsi aşağıdaki kriteleri sağlamalıdır:
 
-1. Basitlik: Hiç bir içerik ihtiyacından fazlasına sahip olmamalıdır.
-2. Doğruluk: Kullanılan ifadeler genel doğrular ile çelişmemeli ve insanların yanlış şekilde yönlendirilmesine izin verilmemelidir. 
-3. Derinlik: Herşey üzerinde kafa yorulmuş bir emeğin karşılığı olmalıdır. İçerikler basit çeviriler değil, bir tecrübenin, bir zihinsel sancının sonucu olmalıdır. 
-4. Aydınlatıcılık: Bir içerik, kendisini tüketenlere farklı bir akış açısı katacak şekilde tasarlanmalı ve bilinenleri tekrar etmek yerine, bilinenlere yeni bir açı katmalı ya da yeni şeyler üretmelidir.
-5. Emeğe saygılı: Herkesin emeğine saygılı olunmalı ve kullanılan materyaller mümkün mertebe referans gösterilmelidir. Bu aynı zamanda, insanların okudukları içeriklerin kaynaklarını kendileri görme şansını elde etmeleri için önemlidir.
-6. Kollektif: İçerikler başka insanların katkılarına açık olmalıdır. 
+1. **Basitlik:** Hiç bir içerik ihtiyacından fazlasına sahip olmamalıdır.
+2. **Doğruluk:** Kullanılan ifadeler genel doğrular ile çelişmemeli ve insanların yanlış şekilde yönlendirilmesine izin verilmemelidir. 
+3. **Derinlik:** Herşey üzerinde kafa yorulmuş bir emeğin karşılığı olmalıdır. İçerikler basit çeviriler değil, bir tecrübenin, bir zihinsel sancının sonucu olmalıdır. 
+4. **Aydınlatıcılık:** Bir içerik, kendisini tüketenlere farklı bir akış açısı katacak şekilde tasarlanmalı ve bilinenleri tekrar etmek yerine, bilinenlere yeni bir açı katmalı ya da yeni şeyler üretmelidir.
+5. **Emeğe Saygılı:** Herkesin emeğine saygılı olunmalı ve kullanılan materyaller mümkün mertebe referans gösterilmelidir. Bu aynı zamanda, insanların okudukları içeriklerin kaynaklarını kendileri görme şansını elde etmeleri için önemlidir.
+6. **Kollektif:** İçerikler başka insanların katkılarına açık olmalıdır. 
 
 ## Seviyeler
 
@@ -38,4 +38,17 @@ Bu anlayış ile içeriklerin tümü üretilmelidir. Yazılan yazılar, kodlar, 
 2. Senior Software Engineer
 3. Intermediate Software Engineer
 4. Junior Software Engineer
+
+## Neden Github Üzerinde?
+
+Github, düşünülenin aksine, bir topluluk kurmak için herşeye fazlasıyla sahip. Yanardönerli websitelerinin sahip olmayacağı şey: insanların ortak şekilde içerik üretmesi. Mesela, paylaşılan bir köşe yazısı üzerinde başkalarının düzeltmeleri ve geliştirmeleri en fazla yorum şeklinde eklenebiliyor ve zamanla içerisinde kaybolup gidiyor. Ama burada bu farklı. İnsanlar pull request'ler oluşturmak sureti ile istedikleri her içeriği kolayca düzeltebiliyor ve geliştirebiliyorlar. İşte açık kaynak olmak mantığı budur. Bizler yazılımcıyız, haber sitelerinde çalışan köşe yazarları değil. Fikirlerimiz ortak aklın gücü ile gelişebilmeli. Bunun olması için ise, insanların fikirlerinize bir araç yardımı ile katkıda bulunabilmeliler.
+
+Github aynı zamanda tarihsel değişimlerinde saklandığı bir yer. Değişim süreçlerini anlamak bir şeyin nasıl geliştiği, nasıl ortaya çıktığını, ve nasıl geliştirebileceğini görmek için önemli. 
+
+İçerikleri istediğiniz yere indirmek sureti ile, istediğiniz araç ve ortamda katkılarınızı yapabilirsiniz. Her ne kadar `git` bilmeniz çok önemli ise de, bilmiyorsanız bile katkılarınızı yapabilirsiniz.
+
+## Sorum Var?
+
+Yazılımcılar için üzerinde aksiyon alınması gereken herşey bir sorundur. O zaman burayı kullanabilirsiniz https://github.com/gelis-tr-io/destek/issues
+
 
