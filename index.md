@@ -1,5 +1,7 @@
 # gelis{tr}.io
 
+![critical-thinking](Critical-thinking.jpg)
+
 Yazılımı sadece kod yazmak mantığından çıkarıp, onu doğru bir şekilde yeniden anlamak, kavramları daha derinlemesine sorgulamak, ve var olan kavramları yeniden var etmek için kuruldu `gelis{tr}.io`.
 
 Amaç, her şeyin açık kaynak olması. Düşüncelerin, yazıların, isteklerin, kavramların... her şeyin kolektif akıl ile yeniden var edilmesi. Var ederken yeniden anlamak, yeniden tasarlamak, ve daha kaliteli bir mühendis olmak için daha derinlemesine düşünmek.
