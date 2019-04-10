@@ -36,10 +36,12 @@ Bu anlayış ile içeriklerin tümü üretilmelidir. Yazılan yazılar, kodlar, 
 
 İnsanların geliştiklerini görmek ve bunu teşvik amacı ile herkesin grup içinde bir seviyesi olmalıdır. Herkes aynı olmadığı gibi, herkesi aynı seviyede görmek ise hem emeğe haksızlık hem de insanların motivasyonunu elleriden almak olacaktır. Bu durum insanların birbirlerine karşı üstünlük taslaması ve başkalarının fikirlerini bastırması için değil, birbirlerinin bilgilerine karşı duyacakları güven için önemli bir kriter olması açısından doğru olandır. Amacı yazılım olan bir toplulukta, kullanılacak unvanlarda piyasada kullanılanlara benzer olacaktır:
 
-1. Principal Software Engineer
-2. Senior Software Engineer
-3. Intermediate Software Engineer
-4. Junior Software Engineer
+1. **Principal Software Engineer:** Yazılımın ötesine geçmiş, felsefinde derinleşmiş, ve fikirler üzerinde hakimiyet kuranların grubu. Burada hava çok soğuk, düşünceler ise uçurum kadar derindir. İkliminde herkes yaşayamaz. Olmanız gereken grup burasıdır. 
+2. **Senior Software Engineer:** Kullandığı teknolojiler üzerinde ciddi bir birikim sahibi ve konusunda otoritelerin grubu.
+3. **Intermediate Software Engineer:** Piyasada bir kaç senedir çalışan ve konusunda otorite olmasa bile birikim sahibi olanların grubu.
+4. **Junior Software Engineer:** Genelde yeni mezunların başladıkları yer. Öğrenmeye aç ve hırslıdırlar.
+
+İlk katılanlar otomatik olarak yeni üyeler grubuna dahil edileceklerdir. https://github.com/orgs/gelis-tr-io/teams/new-members. Principal Software Engineer'lar dışında bulunan gruplar için, seçmeler genelde katılımcıların bilgi birikimlerine, çalıştıkları şirketlerde ki pozisyonlarına, ve katkılarına göre belirlenecektir. Principal Software Engineer için alımlar için kriterler zaman içinde belirlenmeye başlanacak. 
 
 ## Neden Github Üzerinde?
 
