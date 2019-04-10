@@ -2,7 +2,7 @@
 
 Yazılımı sadece kod yazmak mantığından çıkarıp, onu doğru bir şekilde yeniden anlamak, kavramları daha derinlemesine sorgulamak, ve var olan kavramları yeniden var etmek için kuruldu `gelis{tr}.io`.
 
-Amaç, her şeyin açık kaynak olması. Düşüncelerin, yazıların, isteklerin, kavramların... her şeyin kollektif akıl ile yeniden var edilmesi. Var ederken yeniden anlamak, yeniden tasarlamak, ve daha kaliteli bir mühendis olmak için daha derinlemesine düşünmek.
+Amaç, her şeyin açık kaynak olması. Düşüncelerin, yazıların, isteklerin, kavramların... her şeyin kolektif akıl ile yeniden var edilmesi. Var ederken yeniden anlamak, yeniden tasarlamak, ve daha kaliteli bir mühendis olmak için daha derinlemesine düşünmek.
 
 ## Nedir
 
@@ -28,7 +28,7 @@ Bu anlayış ile içeriklerin tümü üretilmelidir. Yazılan yazılar, kodlar, 
 3. **Derinlik:** Her şey üzerinde kafa yorulmuş bir emeğin karşılığı olmalıdır. İçerikler basit çeviriler değil, bir tecrübenin, bir zihinsel sancının sonucu olmalıdır. 
 4. **Aydınlatıcılık:** Bir içerik, kendisini tüketenlere farklı bir bakış açısı katacak şekilde tasarlanmalı ve bilinenleri tekrar etmek yerine, bilinenlere yeni bir açı katmalı ya da yeni şeyler üretmelidir.
 5. **Emeğe Saygılı:** Herkesin emeğine saygılı olunmalı ve kullanılan materyaller mümkün mertebe referans gösterilmelidir. Bu aynı zamanda, insanların okudukları içeriklerin kaynaklarını kendileri görme şansını elde etmeleri için önemlidir.
-6. **Kollektif:** İçerikler başka insanların katkılarına açık olmalıdır. 
+6. **Kolektif:** İçerikler başka insanların katkılarına açık olmalıdır. 
 
 ## Seviyeler
 
