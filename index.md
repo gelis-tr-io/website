@@ -1,6 +1,9 @@
 # gelis{tr}.io
 
-**Video:** @tarikguney bu topluluğun amacını açıklıyor. İzlemek için https://www.youtube.com/watch?v=bPlRaSchlTQ
+**Video:** @tarikguney bu topluluğun amacını açıklıyor.
+
+[İzlemek için tıklayınız.](https://www.youtube.com/watch?v=bPlRaSchlTQ)
+
 
 ![critical thinking](Critical-thinking.jpg)
 
