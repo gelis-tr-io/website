@@ -1,6 +1,8 @@
 # gelis{tr}.io
 
-![critical-thinking](Critical-thinking.jpg)
+**Video:** @tarikguney bu topluluğun amacını açıklıyor. İzlemek için https://www.youtube.com/watch?v=bPlRaSchlTQ
+
+![critical thinking](Critical-thinking.jpg)
 
 Yazılımı sadece kod yazmak mantığından çıkarıp, onu doğru bir şekilde yeniden anlamak, kavramları daha derinlemesine sorgulamak, ve var olan kavramları yeniden var etmek için kuruldu `gelis{tr}.io`.
 
